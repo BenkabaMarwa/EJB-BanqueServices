@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="BanqueEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="BanqueWeb.war" deploy-path="/" handle="module:/resource/BanqueWeb/BanqueWeb">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="BanqueEJB.jar" deploy-path="/" handle="module:/resource/BanqueEJB/BanqueEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
