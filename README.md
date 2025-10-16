@@ -2,6 +2,8 @@
 
 A simple Java EE project demonstrating three ways to expose banking services using Enterprise Java Beans (EJB).
 
+---
+
 ## 🚀 Overview
 This repository contains three parts:
 1. **SOAP Service (JAX-WS)**
@@ -9,9 +11,6 @@ This repository contains three parts:
 3. **Spring Boot REST API**
 
 Each module implements the same banking logic (`BanqueEJB`, `Compte` entity, deposit/withdraw/transfer methods).
-
----
-
 
 ---
 
@@ -33,8 +32,8 @@ Each module implements the same banking logic (`BanqueEJB`, `Compte` entity, dep
 - Run Spring Boot app on port **9000**, access H2 console at:
 http://localhost:9000/h2-console
 
-
 ---
 
 ## 🧑‍💻 Authors
 - **Marwa Benkaba**
+- 
