@@ -38,5 +38,3 @@ http://localhost:9000/h2-console
 
 ## 🧑‍💻 Authors
 - **Marwa Benkaba**
-- **Asmaa Bouzidi**
-
